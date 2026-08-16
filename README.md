@@ -47,38 +47,6 @@ Tenho interesse especial pela área de **Segurança da Informação** e busco co
 
 ---
 
-## 📌 Projeto em Destaque
-
-### 🏥 CarePoint
-
-O **CarePoint** é um sistema desenvolvido com o objetivo de facilitar o acesso a serviços de **Home Care**, conectando pacientes, profissionais e clínicas por meio de uma plataforma digital.
-
-O projeto foi desenvolvido como parte da minha formação em Desenvolvimento de Sistemas, permitindo trabalhar na prática com desenvolvimento **Full Stack**, banco de dados, APIs e integração entre diferentes partes de uma aplicação.
-
-#### Tecnologias utilizadas
-
-* Java
-* Spring Boot
-* PostgreSQL
-* DBeaver
-* FlutterFlow
-* HTML / CSS / JavaScript
-
-#### O que desenvolvi no projeto
-
-* Estruturação de aplicações Web
-* Desenvolvimento de funcionalidades de backend
-* Integração com banco de dados
-* Criação e consumo de APIs
-* Modelagem de banco de dados
-* Desenvolvimento de interfaces
-* Integração entre Front-end e Back-end
-* Trabalho colaborativo utilizando Git e GitHub
-
-> O CarePoint representa uma das principais experiências práticas da minha formação como desenvolvedor.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
