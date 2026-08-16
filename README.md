@@ -1,6 +1,5 @@
 # 👨‍💻 Kayke Cruz
 
-## 🚀 Sobre mim
 
 ### Estudante de Desenvolvimento de Sistemas Full Stack
 
@@ -10,7 +9,7 @@ Tenho interesse especial pela área de **Segurança da Informação** e busco co
 
 ---
 
-## 🧠 Conhecimentos
+## 🚀 Sobre mim
 
 * 🎓 Estudante de Desenvolvimento de Sistemas
 * 💻 Foco em desenvolvimento **Full Stack**
