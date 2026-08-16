@@ -1,6 +1,7 @@
 # 👨‍💻 Kayke Cruz
 
 
+
 ### Estudante de Desenvolvimento de Sistemas Full Stack
 
 Olá! Eu sou **Kayke Cruz**, estudante de Desenvolvimento de Sistemas (2026) no Firjan Senai Sesi Petrópolis, sempre me interessei em computadores, videogames, sistemas, e matemática.
