@@ -2,7 +2,7 @@
 
 ### Estudante de Desenvolvimento de Sistemas Full Stack
 
-Olá! Eu sou **Kayke Cruz**, estudante de Desenvolvimento de Sistemas com foco em **desenvolvimento Full Stack**, atualmente aprofundando meus conhecimentos principalmente em **Java, Spring Boot, HTML, CSS e JavaScript**.
+Olá! Eu sou **Kayke Cruz**, estudante de Desenvolvimento de Sistemas (2026) no Firjan Senai Sesi Petrópolis, sempre me interessei em computadores, videogames, sistemas, e matemática.
 
 Tenho interesse especial pela área de **Segurança da Informação** e busco constantemente desenvolver minhas habilidades por meio de projetos práticos, estudos e novas tecnologias.
 
